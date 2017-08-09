@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+	galleryTitle="Graceville image Gallery"
+>
+  <image imageURL="images/classtime.jpg"
+	thumbURL="thumbs/classtime.jpg"
+	linkURL="images/classtime.jpg"
+	linkTarget="_blank">
+	<title>Welcome to our gallery!</title>
+  </image>
+  <image imageURL="images/excitement.jpg"
+	thumbURL="thumbs/excitement.jpg"
+	linkURL="images/excitement.jpg"
+	linkTarget="_blank">
+	<caption>Beat this excitement n we will pay you..</caption>
+  </image>
+  <image imageURL="images/classtime2.jpg"
+	thumbURL="thumbs/classtime2.jpg"
+	linkURL="images/classtime2.jpg"
+	linkTarget="_blank">
+    <title>class in progress...</title>
+    <caption></caption>
+  </image>
+  <image imageURL="images/tall.jpeg"
+	thumbURL="thumbs/tall.jpeg"
+	linkURL="images/tall.jpeg"
+	linkTarget="_blank">
+	<title>JuiceboxBuilder</title>
+	<caption></caption>
+  </image>
+  <image imageURL="images/mealtime.jpg"
+	thumbURL="thumbs/mealtime.jpg"
+	linkURL="images/mealtime.jpg"
+	linkTarget="_blank">
+	<title>Food Time!!</title>
+    <caption>eating in progress...do not interrupt</caption>
+  </image>
+  <image imageURL="images/tall.jpeg"
+	thumbURL="thumbs/tall.jpeg"
+	linkURL="images/tall.jpeg"
+	linkTarget="_blank">
+	<title>Tallth</title>
+    <caption></caption>
+  </image>
+  <image imageURL="images/play1.jpg"
+	thumbURL="thumbs/play1.jpg"
+	linkURL="images/play1.jpg"
+	linkTarget="_blank">
+    <caption>break on the go</caption>
+  </image>
+  <image imageURL="images/tall.jpeg"
+	thumbURL="thumbs/tall.jpeg"
+	linkURL="images/tall.jpeg"
+	linkTarget="_blank">
+	<title>Smart Preloading</title>
+    <caption></caption>
+  </image>
+  <image imageURL="images/swm1.jpg"
+	thumbURL="thumbs/swm1.jpg"
+	linkURL="images/swm1.jpg"
+	linkTarget="_blank">
+    <caption>we make even the fish jealous with our swimming...</caption>
+  </image>
+  <image imageURL="images/tall.jpeg"
+	thumbURL="thumbs/tall.jpeg"
+	linkURL="images/tall.jpeg"
+	linkTarget="_blank">
+	<title>swim away</title>
+    <caption></caption>
+  </image>
+  <image imageURL="images/swm2.jpg"
+	thumbURL="thumbs/swm2.jpg"
+	linkURL="images/swm2.jpg"
+	linkTarget="_blank">
+	<title>Ready to swim...</title>
+    <caption>Get set, Diiivvvveeeeee...</caption>
+  </image>
+  <image imageURL="images/tall.jpeg"
+	thumbURL="thumbs/tall.jpeg"
+	linkURL="images/tall.jpeg"
+	linkTarget="_blank">
+	<title>Customizable</title>
+    <caption></caption>
+  </image>
+  <image imageURL="images/wide.jpeg"
+	thumbURL="thumbs/wide.jpeg"
+	linkURL="images/wide.jpeg"
+	linkTarget="_blank">
+	<title>Image Titles and Captions</title>
+    <caption></caption>
+  </image>
+  <image imageURL="images/tall.jpeg"
+	thumbURL="thumbs/tall.jpeg"
+	linkURL="images/tall.jpeg"
+	linkTarget="_blank">
+    <caption></caption>
+  </image>
+  <image imageURL="images/wide.jpeg"
+	thumbURL="thumbs/wide.jpeg"
+	linkURL="images/wide.jpeg"
+	linkTarget="_blank">
+	<title>Juicebox-Pro</title>
+    <caption></caption>
+  </image>
+  <image imageURL="images/tall.jpeg"
+	thumbURL="thumbs/tall.jpeg"
+	linkURL="images/tall.jpeg"
+	linkTarget="_blank">
+	<title>Thanks!</title>
+    <caption></caption>
+  </image>
+</juiceboxgallery>
